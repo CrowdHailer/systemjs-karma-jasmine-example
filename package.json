@@ -1,0 +1,19 @@
+{
+  "name": "londonlayout-status",
+  "version": "0.1.0",
+  "description": "Live information for the London Underground and Overground rail networks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Saxton",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^2.4.1",
+    "karma": "^0.13.16",
+    "karma-firefox-launcher": "^0.1.7",
+    "karma-jasmine": "^0.3.6",
+    "karma-systemjs": "^0.10.0",
+    "systemjs": "^0.19.9"
+  }
+}
